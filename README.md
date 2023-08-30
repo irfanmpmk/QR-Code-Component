@@ -1,3 +1,3 @@
 
-- Live Site URL: [Add live site URL here]
+- Live Site URL: https://irfanmpmk.github.io/QR-Code-Component/
 
